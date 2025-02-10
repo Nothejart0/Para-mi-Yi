@@ -41,7 +41,7 @@ function spawnHeart() {
                 
                 if (countdown < 0) {
                     clearInterval(countdownInterval);
-                    window.location.href = "caja_fuerte.html";
+                    window.location.href = "sorpresa.html";
                 }
             }, 1000);
         }
